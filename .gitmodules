@@ -1,0 +1,3 @@
+[submodule "lightweight-charts-python"]
+	path = lightweight-charts-python
+	url = https://github.com/louisnw01/lightweight-charts-python.git
